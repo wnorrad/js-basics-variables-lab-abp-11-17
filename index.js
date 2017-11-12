@@ -1,3 +1,2 @@
-// Code your solution in this file!
-let companyName = 'Scuber';
+// Code your solution in this 
 const companyName ='Scuber';
